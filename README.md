@@ -1,4 +1,4 @@
-Student working on utalitalrian side projects
+Student working on utalitarian side projects
 
 <!---
 faridfadil/faridfadil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
